@@ -1,5 +1,5 @@
 ﻿/*
- MERVE NUR ÇELİK - 210401069
+ MERVE NUR ÇELİK 
 
  Soru 1:  Main fonksiyonu içinde ekrandan dizinin boyutlarının kapasite 
 bilgisini (n) (satır ya da sütun bilgisinin sadece birini) alınız. nxn
